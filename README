@@ -1,5 +1,11 @@
 This is a README file for demo project on GIT. 
-I propose to commit the file as a next step.
+I propose to commit the file as a next step. 
+
+1 ++++++++++++++++++++++++++++
+2 + Harrys feature is done   +
+3 +                          +
+4 ++++++++++++++++++++++++++++
+5 some error fixed befor merge
 
 100 ===========================
 110 Another members worked here
